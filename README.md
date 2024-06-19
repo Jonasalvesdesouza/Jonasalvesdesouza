@@ -1,13 +1,9 @@
 # 👋 Olá, eu sou Jonas Alves de Souza!
 
+![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+
 ## Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e inovação. 🚀 Trabalho com diversas tecnologias modernas e estou sempre em busca de novos desafios.
-
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red">
-    <animate attributeName="r" from="10" to="40" dur="0.5s" repeatCount="indefinite"/>
-  </circle>
-</svg>
 
 ## 🚀 Tecnologias que uso
 - **Linguagens:** JavaScript, TypeScript, 
@@ -30,5 +26,3 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. 🚀 Trabalho com d
   <img src="https://github-readme-stats.vercel.app/api?username=Jonasalvesdesouza&show_icons=true&theme=gotham" alt="Minhas Estatísticas" style="width: 48%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonasalvesdesouza&layout=compact&theme=gotham" alt="Linguagens mais usadas" style="width: 48%;">
 </div>
-
-
