@@ -3,10 +3,11 @@
 ![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 
 ## 🚀 Tecnologias que uso
-- **Linguagens:** JavaScript, TypeScript, 
-- **Frameworks:** React, Express, Angular, NestJs
-- **Ferramentas:** Git, Node.js, VsCode
-- **Outros:** GraphQL, REST APIs, MongoDB
+- **Linguagens:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+- **Frameworks:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![NestJs](https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+- **Ferramentas:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4?style=flat-square&logo=visual-studio-code&logoColor=white)
+- **Outros:** ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-4c9c89?style=flat-square&logo=restful&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JonasAlves-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jonas-alves-de-souza-61540b114/)
