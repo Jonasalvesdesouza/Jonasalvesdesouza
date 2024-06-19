@@ -2,9 +2,6 @@
 
 ![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 
-## Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e inovação. 🚀 Trabalho com diversas tecnologias modernas e estou sempre em busca de novos desafios.
-
 ## 🚀 Tecnologias que uso
 - **Linguagens:** JavaScript, TypeScript, 
 - **Frameworks:** React, Express, Angular, NestJs
