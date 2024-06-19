@@ -3,6 +3,12 @@
 ## Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e inovação. 🚀 Trabalho com diversas tecnologias modernas e estou sempre em busca de novos desafios.
 
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red">
+    <animate attributeName="r" from="10" to="40" dur="0.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
+
 ## 🚀 Tecnologias que uso
 - **Linguagens:** JavaScript, TypeScript, 
 - **Frameworks:** React, Express, Angular, NestJs
