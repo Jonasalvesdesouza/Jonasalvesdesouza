@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou Jonas Alves de Souza!
 
-![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
-
 ## 🚀 Tecnologias que uso
 - **Linguagens:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 - **Frameworks:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![NestJs](https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
